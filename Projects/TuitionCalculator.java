@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 // This program calculates the tuition for a university in 10 years at a 5% increase
 // and calculates the 4 year total tuition after the 10 year increase
 public class TuitionCalculator {
