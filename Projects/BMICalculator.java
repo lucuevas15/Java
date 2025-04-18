@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 // The below program allows users to input their specific height and weight
 // including fractional measurements in decimal form, then calculates BMI and BMI type
 public class BMICalculator {
