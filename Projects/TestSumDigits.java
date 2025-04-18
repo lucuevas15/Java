@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 public class TestSumDigits {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
